@@ -721,7 +721,7 @@ def StJames(year):
     return date(year, 7, 25)
 
 def JamesJerusalem(year):
-    return date(year, 7, 26)
+    return date(year, 10, 23)
 
 def Transfiguration(year):
     return date(year, 8, 6)
